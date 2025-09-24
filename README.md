@@ -16,5 +16,11 @@ The project also includes:
 ##  Setup Instructions
 
 ### 1. Install Dependencies
-```bash
 npm install
+
+### 2. Run main program:
+node index.js
+
+### 3. Run tests:
+npx mocha
+
